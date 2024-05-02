@@ -1,7 +1,3 @@
-![](https://i.imgur.com/xG74tOh.png)
-
-# Exercício 05
-
 ## Calcular a distância entre dois pontos
 
 Calcule a distância entre dois pontos utilizando a seguinte fórmula, considerando que (x1, y1) e (x2, y2) sejam dois pontos em um plano:
